@@ -1,0 +1,16 @@
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Debug\AplicacaoResponsiva.exe.config
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Debug\AplicacaoResponsiva.exe
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Debug\AplicacaoResponsiva.pdb
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.csprojAssemblyReference.cache
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.Properties.Resources.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.csproj.GenerateResource.cache
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.exe
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.pdb
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.btFuncionario.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.Form3.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Debug\CircularProgressBar.dll
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Debug\WinFormAnimation.dll
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.Fusuario.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.csproj.CopyComplete
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\Login.Form1.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Debug\AplicacaoResponsiva.Logo.resources

@@ -1,0 +1,15 @@
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Release\AplicacaoResponsiva.exe.config
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Release\AplicacaoResponsiva.exe
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Release\AplicacaoResponsiva.pdb
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Release\CircularProgressBar.dll
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\bin\Release\WinFormAnimation.dll
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.Form1.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.btFuncionario.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.Fusuario.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.Form3.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.Properties.Resources.resources
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.csproj.GenerateResource.cache
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.csproj.CopyComplete
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.exe
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.pdb
+C:\Users\Gabriel Developer\source\repos\AplicacaoResponsiva\AplicacaoResponsiva\obj\Release\AplicacaoResponsiva.csprojAssemblyReference.cache
